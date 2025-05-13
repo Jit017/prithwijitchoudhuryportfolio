@@ -1,0 +1,30 @@
+{
+  "name": "@jit017/pc-cli",
+  "version": "1.0.0",
+  "description": "Prithwijit Choudhury's CLI tool",
+  "main": "index.js",
+  "bin": {
+    "pc": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "portfolio",
+    "prithwijit",
+    "pc"
+  ],
+  "author": "Prithwijit Choudhury",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "boxen": "^7.1.1",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "open": "^9.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
