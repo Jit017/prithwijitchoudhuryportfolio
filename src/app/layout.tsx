@@ -11,7 +11,7 @@ const manrope = Manrope({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://prithwijit.tech"),
-  title: "Prithwijit Choudhury - Full Stack Developer Portfolio",
+  title: "Prithwijit Choudhury | Portfolio",
   description:
     "Discover the diverse skills and projects of Prithwijit Choudhury (PC), an experienced full stack developer proficient in web development, software engineering, and more.",
   keywords: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     "devops",
   ],
   openGraph: {
-    title: "Prithwijit Choudhury - Full Stack Developer Portfolio",
+    title: "Prithwijit Choudhury | Portfolio",
     description:
       "Discover the diverse skills and projects of Prithwijit Choudhury (PC), an experienced full stack developer proficient in web development, software engineering, and more.",
     url: "https://prithwijit.tech",
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     site: "@prithwijit",
-    title: "Prithwijit's Portfolio",
+    title: "Prithwijit Choudhury | Portfolio",
     description: "Portfolio of a Full Stack Developer.",
     images: [
       "/images/cover.png",
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
+    apple: "/images/apple-touch-icon.png",
   },
   alternates: {
     canonical: "https://prithwijit.tech",
