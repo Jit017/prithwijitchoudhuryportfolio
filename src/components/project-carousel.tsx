@@ -63,6 +63,13 @@ const data = [
     liveLink: "https://realtime-pr.vercel.app",
   },
   {
+    category: "PDF Utility Tool",
+    title: "PDFMerger",
+    src: "/images/pdfmerger.jpg",
+    githubLink: "https://github.com/Jit017/pdfmerger",
+    liveLink: "https://github.com/Jit017/pdfmerger",
+  },
+  {
     category: "URL Shortener",
     title: "LinkShrink",
     src: "/images/linkshrink.png",
